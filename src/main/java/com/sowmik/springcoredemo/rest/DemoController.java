@@ -1,6 +1,6 @@
 package com.sowmik.springcoredemo.rest;
 
-import com.sowmik.springcoredemo.common.Coach;
+import com.sowmik.util.Coach;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
