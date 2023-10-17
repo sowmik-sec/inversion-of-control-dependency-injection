@@ -1,4 +1,4 @@
-package com.sowmik.springcoredemo;
+package com.sowmik.springcoredemo.common;
 
 import org.springframework.stereotype.Component;
 
